@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.pt
+*.pkl
+*.log
+adulter_net/data/processed/
+adulter_net/logs/
+adulter_net/outputs/
